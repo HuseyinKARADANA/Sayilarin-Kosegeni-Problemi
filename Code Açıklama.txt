@@ -1,0 +1,33 @@
+Problem bizden sayıları saat yönünde dönerek yerleştirdikten sonra köşegenlerin toplamını istediği için toplam diye bir değişken olşturduk.
+Toplam=1 dememizin sebebi merkezde olacak olan 1 değerini toplama işlemine dahil etmememizden kaynaklanıyor.
+
+
+Sayaç adındaki değişkenimiz ise her 4x2
+				    4x4
+				    4x6
+				     .
+				     .
+				     .
+gibi döndüğünde bir kare oluşturuyor bu yüzden bu 4 defa dönmeleri saymak için kullandık ve eğer sayaç=4 ise sayacımızı 0'a eşitleyip 
+farkımızı 2 arttırdık. 	
+
+
+Fark değişkenimiz aradığımız sayıyı bulmamızda yardımcı oluyor.
+
+
+Sayi değişkenimiz for içinde dönen i değerine göre aradığımız sayıyı bulmamızda yardımcı oluyor.
+
+
+if (i==sayi+fark): -> Burada dönen i değeri sayı+fark değerine eşit olursa sayi değerimiz sayi ve farkın toplamına eşitleniyor,
+		       toplam i kadar artıyor ve sayacımızı 1 arttırıyoruz.
+
+
+if sayac==4: ------->Burada sayac değişkenimiz 4 değerine eşit olursa sayac değişkenimizi 0'a eşitleyip fark değerine 2 ekliyoruz.
+
+
+
+Sorularınız İçin
+*****************************************************
+LinkedIn:https://www.linkedin.com/in/h%C3%BCseyin-karadana-88b559250
+Mail: huseyinkaradana35@gmail.com
+Instagram: https://www.instagram.com/code._.ware/
